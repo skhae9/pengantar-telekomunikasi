@@ -1,0 +1,25 @@
+nama : Siti Khaeronisyah
+NIM  :09011382025125
+
+throughput : kecepatan rata rata yang diterima oleh suatu node dalam selang waktu pengamatan tertentu
+rumus throughput : jumlah data yang dikirim ( byte s ) / waktu pengiriman ( time span ) * 8 
+                 : 154448 / 360.208 * 8 = 3430 
+lost packet : 904- 904 / 904 * 100 = 0 %  atau tidak ada paket yang gagal terkirim 
+
+delay : time 2- time 1 
+        total delay = 20.052307
+
+        rata delay= 0.022181756
+
+jitter = delay 2- delay 1
+         total jitter = 15.04498
+
+          rata jitter = 0.016642677
+
+
+          
+
+
+
+
+
